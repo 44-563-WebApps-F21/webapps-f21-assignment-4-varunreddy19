@@ -1,0 +1,28 @@
+.speech{
+    font-family: 'Times New Roman';
+    font-size: 15px;
+    color: black;
+}
+
+.stage-direction{
+    
+    font-family: 'sans-serif';
+    font-size: 18px;
+    color: black;
+    background-color: grey;
+}
+
+.stage-direction:hover {
+    background-color:lightcoral;
+    color:darkgoldenrod;
+}
+
+.LORD_GORING{
+    font-family: sans-serif;
+    color: darkseagreen;
+}
+
+.LORD_CAVERSHAM{
+    font-family: Verdana;
+    color: seagreen
+}
