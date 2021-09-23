@@ -63,3 +63,15 @@ table.actors th {
     background-color:blanchedalmond;
     color:black;
 }
+
+.LORD_GORING:hover{
+    text-shadow: 4px 3px 8px grey;
+    border-style:solid;
+    color:darkslategrey;
+}
+
+.LORD_CAVERSHAM:hover{
+    text-shadow: 4px 3px 8px hotpink;
+    border-style:double;
+    color: dimgray;
+}
